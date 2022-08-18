@@ -1,3 +1,7 @@
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h1 align="center">
 📄<br>README Template
 </h1>
